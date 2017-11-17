@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MPROJECT</string>
+    <string name="action_settings">Settings</string>
+    <string name="id_pac">ID PACIENTE:</string>
+    <string name="statusup">ACTUALIZAR ESTADO:</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="id_doc">ID DOCTOR:</string>
+    <string name="agregarp">AGREGAR PACIENTE</string>
+    <string name="limpiar">LIMPIAR</string>
+    <string name="cedula">CÉDULA</string>
+    <string name="nombre">NOMBRE</string>
+    <string name="apellido">APELLIDO</string>
+    <string name="sexo">SEXO:</string>
+    <string name="edad">EDAD</string>
+    <string name="agregard">AGREGAR DOCTOR</string>
+    <string name="roll">ESPECIALIDAD</string>
+    <string name="email">EMAIL</string>
+</resources>
